@@ -1,0 +1,33 @@
+.footer
+{
+    overflow: hidden;
+    position: sticky;
+    top: 100%;
+    background-color:#221d1d;
+    padding: 20px 10px;
+}
+
+h1 
+{
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+}
+p 
+{
+    color: #fff;
+    font-size: 12px;
+}
+a 
+{
+    background-color: white;
+    color: #fff;
+    padding: 0px 10px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+i 
+{
+    padding: 0px 10px;
+}
